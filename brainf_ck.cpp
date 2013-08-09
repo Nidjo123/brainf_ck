@@ -1,5 +1,6 @@
 #include <fstream>
 #include <cstdlib>
+#include <cstdio>
 #include <string>
 #include <stack>
 
